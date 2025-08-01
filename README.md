@@ -8,3 +8,10 @@ A real-time web application that tracks and displays the live availability statu
 🖥️ Built with React for a responsive, interactive UI
 
 🏫 Designed specifically for college environments to streamline staff-student coordination
+
+# 🔧 Tech Stack
+Frontend: React.js, Tailwind CSS (or your CSS framework)
+
+Backend: Firebase (Authentication + Realtime Database)
+
+Hosting: Firebase Hosting or Vercel (if applicable)
