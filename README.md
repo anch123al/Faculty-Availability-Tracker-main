@@ -1,2 +1,2 @@
-# Faculty-Availability-Tracker
-1. Track real-time faculty availability in colleges. 2. Faculty availability tracker using React &amp; Firebase. 3.  Real-time web app to track faculty availability.  4. College faculty live availability status system.  5. Web app for tracking teacher availability live
+📌 Project Overview
+A real-time web application that tracks and displays the live availability status of college faculty. This system helps students and staff quickly check if a teacher is available, in class, or on leave, improving communication and planning within academic institutions.
