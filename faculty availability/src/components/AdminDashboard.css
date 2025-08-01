@@ -1,0 +1,66 @@
+.admin-dashboard-container {
+  background-color: #0d1117;
+  color: #ffffff;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.admin-dashboard-container h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #00ffcc;
+}
+
+.upload-section {
+  margin: 2rem 0;
+}
+
+.upload-section input[type="file"] {
+  padding: 0.5rem;
+  margin-right: 1rem;
+}
+
+.upload-section button {
+  padding: 0.5rem 1rem;
+  background-color: #00ffcc;
+  color: #000;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.upload-section button:hover {
+  background-color: #00ddb3;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.logs-section {
+  margin-top: 2rem;
+}
+
+.logs-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+button {
+  margin-top: 1rem;
+  background-color: #ff4d4d;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e60000;
+}

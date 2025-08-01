@@ -1,0 +1,40 @@
+.student-container {
+  text-align: center;
+  margin-top: 50px;
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: auto;
+}
+
+h2 {
+  color: white;
+  font-size: 24px;
+}
+
+.department-list {
+  list-style: none;
+  padding: 0;
+}
+
+.department-list li {
+  margin: 10px 0;
+}
+
+.dept-btn {
+  background: white;
+  color: #6e8efb;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.dept-btn:hover {
+  background: #4c67e7;
+  color: white;
+}
